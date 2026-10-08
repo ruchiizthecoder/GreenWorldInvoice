@@ -1,0 +1,24 @@
+GREEN WORLD INVOICE — PRIVATE IPHONE WEB APP
+
+Files: index.html, manifest.json, icon.svg
+
+How to use:
+1. Put these files on any HTTPS static website host.
+2. Open the site in Safari on your iPhone.
+3. Tap Share -> Add to Home Screen.
+4. Launch it from the Home Screen like an app.
+
+Features:
+- Customer details
+- Invoice numbering
+- Multiple colors/products
+- Bags = kg / 25
+- Total = kg x unit price
+- Product price presets
+- Invoice history in the iPhone browser
+- Duplicate invoices
+- Share invoice summary
+- Print / Save as PDF through iOS print dialog
+- No login or server database
+
+Data is stored locally on the iPhone/browser. Clearing website data can erase local invoice history.
